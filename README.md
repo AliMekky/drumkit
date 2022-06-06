@@ -3,4 +3,4 @@ Using javascript code to add functionalities and animations to simple drum kit c
 *******************************************************************************************
 this project was an assignment in Dr.Angela Yu course : https://www.udemy.com/share/101qYw3@7mNJUcQjHMqWdIeVvoxIu6zUKcIYoANLIi1Kynkqtf1dw4MtG2OhPOSf5Cw1rPPACw==/
 *********************************************************************************************
-to access the drum kit visit the link : 
+to access the drum kit visit the link : https://alimekky.github.io/drumkit/
